@@ -1,0 +1,23 @@
+.webcamCapture {
+    position: relative;
+}
+
+.webcamCapture__button {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    color: white;
+}
+
+.chats__listChats {
+    position: absolute;
+    right: 0;
+    transform: translate(-50%, -50%);
+    cursor: pointer !important;
+    color: white;
+    font-size: 30px !important;
+}
+
+
